@@ -1,0 +1,22 @@
+{
+  "name": "ant-design-vue-admin",
+  "version": "0.0.2",
+  "description": "基于Vue, Ant Design, Ant Design Vue, ECharts的中后台管理系统框架.",
+  "author": "Dion Ren <me@dionren.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dionren/ant-design-vue-admin.git"
+  },
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "node ./test"
+  },
+  "keywords": [
+    "vue",
+    "ant design",
+    "antd",
+    "echarts"
+  ],
+  "license": "MIT"
+}
